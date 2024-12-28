@@ -1,0 +1,1 @@
+The goal of this project is to predict the Quality Rating of a manufacturing product based on process parameters such as Temperature (°C), Pressure (kPa), and other derived metrics. These parameters impact the material properties and the overall product quality.
